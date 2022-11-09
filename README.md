@@ -4,12 +4,12 @@
 #
 
 <p align="left">
-<a href="https://github.com/OO7ROBOT/YouTubeDownloaderBot/stargazers"><img alt="github" src="https://img.shields.io/github/stars/OO7ROBOT/YouTubeDownloaderBot?style=flat-square&color=yellow"/></a>
-<a href="https://github.com/OO7ROBOT/YouTubeDownloaderBot/fork"><img alt="github" src="https://img.shields.io/github/forks/OO7ROBOT/YouTubeDownloaderBot?style=flat-square&color=orange"/></a>     
-  <a href="https://github.com/OO7ROBot/YouTubeDownloaderBot/stargazers">
+<a href="https://github.com/sivaparvathigoli5/YoutubeDownloaderBot"><img alt="github" src="https://img.shields.io/github/stars/OO7ROBOT/YouTubeDownloaderBot?style=flat-square&color=yellow"/></a>
+<a href="https://github.com/sivaparvathigoli5/YoutubeDownloaderBot/fork"><img alt="github" src="https://img.shields.io/github/forks/OO7ROBOT/YouTubeDownloaderBot?style=flat-square&color=orange"/></a>     
+  <a href="https://github.com/sivaparvathigoli5/YoutubeDownloaderBot/stargazers">
     <img src="https://img.shields.io/github/stars/OO7ROBot/YouTubeDownloaderBot?style=social">
   </a>
-  <a href="https://github.com/OO7ROBot/YouTubeDownloaderBot/fork">
+  <a href="https://github.com/sivaparvathigoli5/YoutubeDownloaderBot/fork">
     <img src="https://img.shields.io/github/forks/OO7ROBot/YouTubeDownloaderBot?label=Fork&style=social">
   </a>  
 </p>
@@ -49,7 +49,7 @@
   
 Press the below button to  deploy on Heroku <br>
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/OO7ROBOT/YoutubeDownloaderBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sivaparvathigoli5/YoutubeDownloaderBot)
 
 
 </details>
